@@ -17,5 +17,7 @@ module.exports = {
     'comma-dangle': 'off',
     'function-paren-newline': 'off',
     'prefer-const': 'off',
+    camelcase: 'off',
+    'object-curly-newline': 'off',
   },
 };
