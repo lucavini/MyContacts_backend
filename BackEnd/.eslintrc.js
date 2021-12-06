@@ -19,5 +19,6 @@ module.exports = {
     'prefer-const': 'off',
     camelcase: 'off',
     'object-curly-newline': 'off',
+    'no-confusing-arrow': 'off',
   },
 };
