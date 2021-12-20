@@ -1,0 +1,22 @@
+{
+  "name": "MyContacts",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Lucas Vinicius",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "build": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "nodemon": "^2.0.15"
+  }
+}
